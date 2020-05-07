@@ -26,7 +26,7 @@ Jypiter notebooks
 Использовались следующие навыки: парсинг данных, HTML, BeautifulSoup,  get-запросы, SQL, описание зависимостей на основе графиков (Plotly, Mathplotlib, Seaborn).
 Что сделано: данные были спарсены из веб ресурса, приведены к формату датафрема и проанализированы, визуализированы, проверены гипотезы о наличии зависимостей.
 
-6. ### [Оптимизация маркетинговых затрат по каналам инвестирования](https://nbviewer.jupyter.org/github/AnnaShevalje/Data-Analysis-projects-Yandex.Prakticum-cohort-5/blob/master/Business_rates_analysis.ipynb)
+6. ### [Оптимизация маркетинговых затрат по каналам инвестирования](https://nbviewer.jupyter.org/github/AnnaShevalje/Data-Analysis-projects-Yandex.Prakticum-cohort-5/blob/500774897075189c2c143d3be3fbfefdf9572205/Business_rates_analysis.ipynb)
 
 Заказчик – Онлайн.Афиша - сервис поиска и покупки билетов на мероприятия. Задача: оптимизация маркетинговых затрат по каналам инвестирования.
 Использовались следующие навыки: предобработка данных (описание аналогично проекту 1), расчет бизнес метрик (расчет LTV, CAC, RetentionRate, Churn rate, ROMI, DAU/MAU, когортный анализ, построение heatmap, построение гистрограмм, «ящиков с усами»
