@@ -1,7 +1,7 @@
 # Data-Analysis-projects-Yandex.Prakticum-cohort-5
 Jypiter notebooks
 
-[Описание сделанных проектов:](#https://nbviewer.jupyter.org/github.com/AnnaShevalje/Data-Analysis-projects-Yandex.Prakticum-cohort-5/blob/master/ECommerce_prinyato.ipynb)
+[Описание сделанных проектов:](#"https://nbviewer.jupyter.org/github.com/AnnaShevalje/Data-Analysis-projects-Yandex.Prakticum-cohort-5/blob/master/ECommerce_prinyato.ipynb")
 
 1.  Заказчик – кредитный отдел комменрческого банка. Задача: Анализ клиентов кредитного отдела банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
 Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
