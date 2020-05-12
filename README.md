@@ -43,7 +43,7 @@ Jypiter notebooks
 
 **Что сделано:** Проанализирована эффективность рекламных компании. Сделаны выводы.
 
-5. ### [Анализ результатов АВ тестрования интернет магазина]
+5. ### [Анализ результатов АВ тестрования интернет магазина](https://nbviewer.jupyter.org/github/AnnaShevalje/Data-Analysis-projects-Yandex.Prakticum-cohort-5/blob/9c82466e39e5f1b8cbf417de9e1f07368a593dd4/AB_test_analysis.ipynb)
 
 **Заказчик** - интернет-магазин. 
 
