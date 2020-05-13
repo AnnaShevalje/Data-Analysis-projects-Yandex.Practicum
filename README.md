@@ -63,7 +63,7 @@ Jypiter notebooks
 
 **Что сделано:** проанализированы затраты по тарифам, рассчитаны дисперсия, стандартное отклонение, средняя выручка, длительность сессий, проверены гипотезы о равенстве средних в выручках по тарифам.
 
-7. ### [Приоритизация гипотез и анализ результатов А/В теста для интернет-магазина](https://nbviewer.jupyter.org/github/AnnaShevalje/Data-Analysis-projects-Yandex.Praktikum/blob/master/hypothesis_priority_AB.ipynb) 
+7. ### [Приоритизация гипотез и анализ результатов А/В теста для интернет-магазина](https://nbviewer.jupyter.org/github/AnnaShevalje/Data-Analysis-projects-Yandex.Prakticum-cohort-5/blob/master/hypothesis_priority_AB.ipynb)
 
 **Заказчик** - крупный интернет-магазин.
 
