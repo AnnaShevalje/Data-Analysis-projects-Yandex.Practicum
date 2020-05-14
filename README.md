@@ -1,4 +1,4 @@
-# Data-Analysis-projects-Yandex.Praktikum
+# Data-Analysis-projects-Yandex.Practicum
 Jypiter notebooks
 
 Описание выполненных проектов курса [Data Analyst Yandex.Praktikum:](https://praktikum.yandex.ru/data-analyst)
